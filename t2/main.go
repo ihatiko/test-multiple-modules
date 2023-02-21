@@ -1,5 +1,7 @@
 package t2
 
-func HelloT2() {
+import "fmt"
 
+func HelloT2() {
+	fmt.Println("Heeeee")
 }
